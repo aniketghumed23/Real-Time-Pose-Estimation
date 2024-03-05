@@ -1,7 +1,5 @@
 # **Real-Time-Pose-Estimation**
 
-## **Project Title :** Real Time Pose Estimation
-
 ## **Project Introduction :**
 
 The goal of this project is to create a web application and an android application that uses the Mediapipe Holistic Model and WebRTC (Web Real-Time Communication) technology to perform pose estimation and action recognition in real time, which includes body, hand, and face pose estimation. Users of the proposed web application will be able to upload images, record video or use webcam through their web browser and perform pose estimation using the Mediapipe Model, which can quickly and accurately identify poses and actions in an image or video stream.
